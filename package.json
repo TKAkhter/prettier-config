@@ -1,0 +1,23 @@
+{
+  "name": "@tkakhter/prettier-config",
+  "version": "1.0.1",
+  "description": "core prettier rules",
+  "main": ".prettierrc.json",
+  "license": "UNLICENSED",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://tkakhter: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@github.com/TKAkhter/prettier-config.git"
+  },
+  "dependencies": {
+    "prettier": "2.8"
+  },
+  "bugs": {
+    "url": "https://github.com/TKAkhter/prettier-config/issues"
+  },
+  "homepage": "https://github.com/TKAkhter/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talha Akhter"
+}
